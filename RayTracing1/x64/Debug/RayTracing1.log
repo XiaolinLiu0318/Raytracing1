@@ -1,0 +1,24 @@
+﻿  源.cpp
+C:\Users\Administrator\source\repos\RayTracing1\RayTracing1\perlin.h(48,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\source\repos\RayTracing1\RayTracing1\perlin.h(49,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\source\repos\RayTracing1\RayTracing1\perlin.h(50,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\source\repos\RayTracing1\RayTracing1\rotate.h(46,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\source\repos\RayTracing1\RayTracing1\rotate.h(47,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\source\repos\RayTracing1\RayTracing1\rotate.h(69,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\source\repos\RayTracing1\RayTracing1\rotate.h(70,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\source\repos\RayTracing1\RayTracing1\源.cpp(362,156): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Administrator\source\repos\RayTracing1\RayTracing1\源.cpp(362,110): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Administrator\source\repos\RayTracing1\RayTracing1\源.cpp(362,64): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+  RayTracing1.vcxproj -> C:\Users\Administrator\source\repos\RayTracing1\x64\Debug\RayTracing1.exe
